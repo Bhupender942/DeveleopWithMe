@@ -237,6 +237,6 @@ TypeError: '>' not supported between instances of 'datetime.datetime' and 'str'
 
 
 <div align="center">
-  <strong>Built with ❤️ by <a href="https://github.com/karann0077">karann0077</a></strong><br/>
+  <strong>Built with ❤️ by <a href="https://github.com/Bhupender942">Bhupender</a></strong><br/>
   <sub>Groq · FAISS · fastembed · FastAPI · React · TypeScript · Vercel · Render</sub>
 </div>
